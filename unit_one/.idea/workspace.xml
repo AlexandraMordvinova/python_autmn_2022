@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8de1effe-4b91-4a53-8a70-46c9c38cdccb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/python_autumn_2022.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_work/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_work/.idea/class_work.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_work/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_work/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_work/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_work/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_work/21.09/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_work/21.09/.idea/21.09.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_work/21.09/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_work/21.09/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_work/21.09/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_work/21.09/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_work/21.09/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_work/21.09/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_work/21.09/task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/task4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/.idea/lesson3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/task10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/task5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/task6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/task7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/task8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/task9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/.idea/lesson4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/task11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/task12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/task13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4/task14.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Faum9iSnizoTJhnqv8fvTlTR15" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/79046/Desktop/python_autumn_2022/unit_one"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="task15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="unit_one" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task15" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8de1effe-4b91-4a53-8a70-46c9c38cdccb" name="Changes" comment="" />
+      <created>1664742672697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664742672697</updated>
+    </task>
+    <servers />
+  </component>
+</project>

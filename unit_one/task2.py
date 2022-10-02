@@ -11,10 +11,11 @@ str_two = ""
 #Преобразуйте значение 0 и 1  в Boolean
 
 #1
-age=input("23")
-print(int(age))
-foo=input(123abc)
-print(int(foo))
+age=int("23")
+print(age)
+foo=int('123abc')
+print(foo)
+
 #2
 bool(123abc)
 #3
